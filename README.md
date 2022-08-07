@@ -25,5 +25,5 @@ UI server instance will start at `http://127.0.0.1:5173/`
 ## Built With
 
 - [Vite](https://vitejs.dev/guide/) - Application bootstrap.
-- [NestJS](https://mariadb.org/) - CRUD Server.
+- [NestJS](https://nestjs.com/) - CRUD Server.
 - [Redux Toolkit](https://redux-toolkit.js.org/) - Global state manager.
