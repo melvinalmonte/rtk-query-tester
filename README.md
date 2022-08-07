@@ -24,6 +24,6 @@ UI server instance will start at `http://127.0.0.1:5173/`
 
 ## Built With
 
-- [Vite](https://vitejs.dev/guide/){:target="_blank"} - Application bootstrap.
+- [Vite](https://vitejs.dev/guide/) - Application bootstrap.
 - [NestJS](https://nestjs.com/) - CRUD Server.
 - [Redux Toolkit](https://redux-toolkit.js.org/) - Global state manager.
